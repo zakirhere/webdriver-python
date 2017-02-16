@@ -1,0 +1,4 @@
+python-e2e-solution
+webdriver==3.0.6
+lettuce
+lettuce_webdriver
